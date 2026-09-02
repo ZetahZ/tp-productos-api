@@ -5,9 +5,9 @@ Trabajo práctico desarrollado con una arquitectura modular por capas, utilizand
 ---
 ## Integrantes 
 
-Mejia Fabrizio 
-Gutierrez Jose Maria
-Arapa Dillan Luigi A.
+Mejia Fabrizio : https://github.com/ZetahZ
+Gutierrez Jose Maria : https://github.com/Gutierrez-Jose-M
+Arapa Dillan Luigi A. : https://github.com/ArapaDillan10
 
 
 ## Estructura del Proyecto
