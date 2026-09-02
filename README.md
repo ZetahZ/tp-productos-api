@@ -7,6 +7,7 @@ Trabajo práctico desarrollado con una arquitectura modular por capas, utilizand
 
 Mejia Fabrizio 
 Gutierrez Jose Maria
+Arapa Dillan Luigi Adolfo
 
 ## Estructura del Proyecto
 
