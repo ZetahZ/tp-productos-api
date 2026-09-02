@@ -22,3 +22,7 @@ tp-productos-api/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
+# para levantar la api en la terminal ejecutar estos 2 codigos
+fastapi dev app/main.py
+venv\Scripts\Activate.ps1
