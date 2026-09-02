@@ -7,10 +7,10 @@ Trabajo práctico desarrollado con una arquitectura modular por capas, utilizand
 
 Mejia Fabrizio 
 Gutierrez Jose Maria
-Arapa Dillan Luigi Adolfo
+Arapa Dillan Luigi A.
+
 
 ## Estructura del Proyecto
-
 ```text
 tp-productos-api/
 │
@@ -28,6 +28,7 @@ tp-productos-api/
 ├── README.md
 └── requirements.txt
 ```
+
 # Para levantar la api en la terminal ejecutar los siguientes codigos paso a paso.
 
 Primera y unica vez;
