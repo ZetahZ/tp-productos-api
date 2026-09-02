@@ -31,6 +31,8 @@ venv\Scripts\Activate.ps1
 
 paso 2
 pip install fastapi uvicorn pydantic
+paso 2.5
+pip install "fastapi[standard]"
 
 paso 3 
 fastapi dev app/main.py
