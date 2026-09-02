@@ -3,6 +3,10 @@
 Trabajo práctico desarrollado con una arquitectura modular por capas, utilizando **FastAPI** para la creación de la API, **Pydantic** para la validación de datos y el **Patrón Repository** para separar la lógica de negocio y persistencia.
 
 ---
+## Integrantes 
+
+Mejia Fabrizio 
+Gutierrez Jose Maria
 
 ## Estructura del Proyecto
 
