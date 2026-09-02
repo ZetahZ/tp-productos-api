@@ -45,3 +45,11 @@ paso 4
 venv\Scripts\Activate.ps1 
 
 ven esto? 
+
+![Descripción:7 ](./img/7.png)
+![Descripción:8 ](./img/8a.png)
+![Descripción:8 ](./img/8b.png)
+![Descripción:8 ](./img/8c.png)
+![Descripción:8 ](./img/8d.png)
+![Descripción:8 ](./img/8e.png)
+![Descripción:8 ](./img/8f.png)
