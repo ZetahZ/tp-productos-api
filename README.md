@@ -28,24 +28,30 @@ tp-productos-api/
 ├── README.md
 └── requirements.txt
 ```
-# para levantar la api en la terminal ejecutar estos 2 codigos
-primera y unica vez 
-paso 1
+# Para levantar la api en la terminal ejecutar los siguientes codigos paso a paso.
+
+Primera y unica vez;
+
+# Paso 1
+
 python -m venv venv
 venv\Scripts\Activate.ps1
 
-paso 2
+# Paso 2
 pip install fastapi uvicorn pydantic
-paso 2.5
+
+# Paso 3
 pip install "fastapi[standard]"
 
-paso 3 
+# Paso 4
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
+
+# Paso 5
 fastapi dev app/main.py
 
-paso 4 
+# Paso 6 
 venv\Scripts\Activate.ps1 
 
-ven esto? 
 
 ![Descripción:7 ](./img/7.png)
 ![Descripción:8 ](./img/8a.png)
