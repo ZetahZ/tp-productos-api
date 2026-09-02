@@ -1,0 +1,1 @@
+notas para los pibardos: 
