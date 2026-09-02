@@ -8,7 +8,6 @@ app = FastAPI(
     description="API para la gestión de productos y categorías del TP"
 )
 
-# Registrar los routers de la API
 app.include_router(productos_router, prefix="/api/v1")
 app.include_router(categorias_router, prefix="/api/v1")
 
