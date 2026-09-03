@@ -32,6 +32,8 @@ tp-productos-api/
 # Para levantar la api en la terminal ejecutar los siguientes codigos paso a paso.
 
 Primera y unica vez;
+# paso 0  
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
 
 # Paso 1
 
