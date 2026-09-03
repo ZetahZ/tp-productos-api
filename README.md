@@ -8,7 +8,7 @@ Trabajo práctico desarrollado con una arquitectura modular por capas, utilizand
 Mejia Fabrizio : https://github.com/ZetahZ
 Gutierrez Jose Maria : https://github.com/Gutierrez-Jose-M
 Arapa Dillan Luigi A. : https://github.com/ArapaDillan10
-
+Donato Prieto: https://github.com/ElDonaa
 
 ## Estructura del Proyecto
 ```text
